@@ -9,14 +9,16 @@
 }
 
 .menu{
-    background-image: url(../img/07);
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWAsvrKilxIG8-oOkvoUxJNhdOwzzQBptYsA&usqp=CAU);
     background-position: center;
     background-size: 100% 100%;
     background-repeat: no-repeat;
     min-height: 350px;
     width: 100%;
     height: 100%;
+    padding-top: 100px;
 }
+
 
 
 
